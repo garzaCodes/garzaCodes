@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Marc Garza</h1>
-<h3 align="center">A full stack developer with a passion for the web</h3>
+<h1>Hi 👋, I'm Marc Garza</h1>
+<h3 style="margin-bottom: 20px">A full stack developer with a passion for the web</h3>
+
+###  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garzacodes&label=Profile%20views&color=0e75b6&style=flat" alt="garzacodes" /> </p>
 
