@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Marc Garza</h1>
-<h3 style="margin-bottom: 20px">A full stack developer with a passion for the web</h3>
+<h3 style="margin-bottom: 20px">A full stack developer with a passion for anything on the web.</h3>
 
 ###  
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/garzacodes" target="blank"><img src="https://img.shields.io/twitter/follow/garzacodes?logo=twitter&style=for-the-badge" alt="garzacodes" /></a> </p>
 
-- 👨‍💻 Most of my projects are available at [github.com/garzacodes](github.com/garzacodes)
+- 👨‍💻 Most of my projects are private but some are available at [github.com/garzacodes](github.com/garzacodes)
 
-- 💬 Ask me about **React, Angular, AngularJS, TypeScript**
+- 💬 Ask me about **React, Angular, AngularJS, TypeScript, JavaScript**
 
 - 📫 How to reach me **garzacodes@garza.cloud**
 
