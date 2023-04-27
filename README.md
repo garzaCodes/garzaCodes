@@ -100,7 +100,7 @@
     
 <a href="https://nextjs.org/" target="_blank">
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
     alt="nextjs"
     width="40"
     height="40" 
