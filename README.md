@@ -1,5 +1,10 @@
 <h1>Hi 👋, I'm Marc Garza</h1>
 <h3 style="margin-bottom: 20px">A full stack developer with a passion for anything on the web.</h3>
+<p>
+    Welcome to my GitHub profile! With a strong foundation as an Air Force Veteran, I bring over 15 years of valuable experience in the field of IT. Over the course of my career, I have spent more than 7 years dedicated to software development, refining my skills and expertise. My preferred languages are JavaScript and TypeScript, which I have extensively utilized to build cutting-edge solutions. Additionally, I have gained proficiency in Python and Go, adding versatility to my development toolbox. 
+    </p>
+    <p>Beyond my technical proficiency, I am truly passionate about creating impactful tools that drive the modernization of education, particularly for home schoolers. I am committed to leveraging my knowledge and skills to shape the future of learning. Feel free to explore my projects and join me on this exciting journey of innovation and education transformation.
+    </p>
 
 ###  
 
