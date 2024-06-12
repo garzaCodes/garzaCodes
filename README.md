@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **garzacodes@garza.cloud**
 
-- 📄 Learn more about me [marc-garza.com](marc-garza.com)
+
 
 <h3 align="left">Connect with me:</h3>
 
