@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Marc Garza</h1>
 <h3 style="margin-bottom: 20px">A full stack developer with a passion for anything on the web.</h3>
 <p>
-    Welcome to my GitHub profile! I'm an Air Force Vet that brings over 16 years of experience in the field of IT. Over 8 of those years, I've been playing matchmaker, pairing problems with solutions in software development. JavaScript and TypeScript are my partners in crime, and together, we've whipped up some nifty digital magic. Fancy a chat about tech, the military, or the best kind of coffee for coding? Let's connect! 😄
+    Welcome to my GitHub profile! I'm an Air Force Vet that brings over 16 years of experience in the field of IT. Over 8 of those years, I've been playing matchmaker, pairing problems with solutions in software development. JavaScript and TypeScript are my partners in crime, and together, we've whipped up some digital magic.
     </p>
 
 
