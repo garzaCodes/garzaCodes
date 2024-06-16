@@ -27,6 +27,13 @@
 <a href="https://www.youtube.com/c/garzacodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="garzacodes" height="30" width="40" /></a>
 </p>
 
+<p>
+  <img
+    align="center"
+    src="https://streak-stats.demolab.com/?user=garzaCodes&theme=dark"
+    alt="garzaCodes"
+  /></p>
+
 
 <h3 align="left">Languages</h3>
 
@@ -194,10 +201,5 @@
 
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://streak-stats.demolab.com/?user=garzaCodes&theme=dark"
-    alt="garzaCodes"
-  /></p>
+
 
