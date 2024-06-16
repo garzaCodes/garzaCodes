@@ -205,7 +205,7 @@
 <p>
   <img
     align="center"
-    src="https://streak-stats.demolab.com/?user=garzasays&theme=dark"
+    src="https://streak-stats.demolab.com/?user=garzaCodes&theme=dark"
     alt="garzaCodes"
   /></p>
 
