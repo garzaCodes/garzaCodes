@@ -197,7 +197,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=garzaCodes&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=garzaCodes&show_icons=true&locale=en&layout=compact&theme=dark"
     alt="garzaCodes"
   />
 </p>
@@ -205,7 +205,7 @@
 <p>
   <img
     align="center"
-    src="https://streak-stats.demolab.com/?user=garzaCodes&theme=dark"
+    src="https://streak-stats.demolab.com/?user=garzasays&theme=dark"
     alt="garzaCodes"
   /></p>
 
