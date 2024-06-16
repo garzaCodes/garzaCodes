@@ -197,16 +197,16 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=garzacodes&show_icons=true&locale=en&layout=compact"
-    alt="garzacodes"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=garzaCodes&show_icons=true&locale=en&layout=compact"
+    alt="garzaCodes"
   />
 </p>
 
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=garzacodes&"
-    alt="garzacodes"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=garzaCodes&"
+    alt="garzaCodes"
   />
 </p>
 
