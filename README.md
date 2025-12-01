@@ -18,51 +18,103 @@ If you ever want to talk through an idea, compare approaches, or trade war stori
 
  
 
-## Tech Stack
+## My Tech Stack
 
-### Languages
+### Core Languages
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
- 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55" height="55" />](https://www.typescriptlang.org/)
- 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55" />](https://www.python.org)
- 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="55" height="55" />](https://go.dev/)
-
----
-
-### Libraries & Frameworks
-
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55" height="55" />](https://reactjs.org/)
- 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="55" height="55" />](https://nextjs.org/)
- 
-[<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="55" height="55" />](https://angular.io)
- 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55" />](https://nodejs.org)
- 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="55" height="55" />](https://www.electronjs.org)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js" width="40" />
+  <img src="https://skillicons.dev/icons?i=ts" width="40" />
+  <img src="https://skillicons.dev/icons?i=py" width="40" />
+  <img src="https://skillicons.dev/icons?i=go" width="40" />
+  <img src="https://skillicons.dev/icons?i=cs" width="40" />
+  <img src="https://skillicons.dev/icons?i=html" width="40" />
+  <img src="https://skillicons.dev/icons?i=css" width="40" />
+</p>
 
 ---
 
-### Data
+### Front-End & UI
 
-[<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55" height="55" />](https://firebase.google.com/)
- 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55" />](https://www.mongodb.com/)
- 
-[<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="55" height="55" />](https://www.microsoft.com/en-us/sql-server)
- 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55" />](https://www.mysql.com/)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" width="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" />
+  <img src="https://skillicons.dev/icons?i=angular" width="40" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" />
+  <img src="https://skillicons.dev/icons?i=sass" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=d3" width="40" />
+  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="40" />
+</p>
+
+---
+
+### Frameworks & Build Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" />
+  <img src="https://skillicons.dev/icons?i=webpack" width="40" />
+  <img src="https://skillicons.dev/icons?i=babel" width="40" />
+  <img src="https://skillicons.dev/icons?i=gulp" width="40" />
+  <img src="https://skillicons.dev/icons?i=electron" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=jekyll" width="40" />
+</p>
+
+---
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" />
+  <img src="https://skillicons.dev/icons?i=sqlite" width="40" />
+  <img src="https://skillicons.dev/icons?i=redis" width="40" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="40" />
+</p>
+
+---
+
+### DevOps, Cloud & Infra
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure" width="40" />
+  <img src="https://skillicons.dev/icons?i=docker" width="40" />
+  <img src="https://skillicons.dev/icons?i=git" width="40" />
+</p>
 
 ---
 
 ### Testing
 
-[<img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" width="55" height="55" />](https://jasmine.github.io/)
- 
-[<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="55" height="55" />](https://jestjs.io)
- 
-[<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" width="55" height="55" />](https://karma-runner.github.io/latest/index.html)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jest" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="40" />
+</p>
+
+---
+
+### Design, APIs & Other Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" width="40" />
+  <img src="https://skillicons.dev/icons?i=postman" width="40" />
+  <img src="https://cdn.simpleicons.org/ollama" width="40" />
+</p>
+
+---
+
+If you want, I can also:
+
+* integrate this directly into the rewritten GitHub profile
+* make a more minimal or more visual version
+* restyle all icons to match one theme (skillicons-only, devicon-only, monochrome, etc.)
+
+Just tell me the vibe you're aiming for.
+
 
