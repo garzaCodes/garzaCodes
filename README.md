@@ -1,66 +1,68 @@
-# Hi 👋, I'm Marc Garza &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=garzacodes&label=Profile%20views&color=0e75b6&style=flat)
+# Hi, I’m Marc Garza
 
-Hey, I’m Marc — a developer who loves building cool stuff and figuring out clean, practical solutions to messy problems. I’m a Development Manager by day, but I still like to stay hands-on and close to the code whenever I can.
+![Profile Views](https://komarev.com/ghpvc/?username=garzacodes\&label=Profile%20views\&color=0e75b6\&style=flat)
 
-I spend most of my time working with React, Angular, TypeScript, and SPFx. I’ve also got a thing for PowerShell and SQL when the project calls for it. Whether it's building out features, squashing bugs, or just kicking around ideas in code, I'm all about creating things that work well and look good doing it. 😎
+I build web apps that are fast, clean, and easy to live with. I’m a Development Manager who still writes code because staying close to the work keeps me honest. These days I spend most of my time in React, Next.js, and SharePoint SPFx, with TypeScript running the show.
 
-Always up for chatting about dev tools, side projects, or whatever you're building—drop a line anytime!
+I like problems with edges. The kind that need clear thinking, not theatrics. If a project calls for structure, performance, or just someone who’ll simplify the chaos, that’s usually where I end up.
 
+If you ever want to talk through an idea, compare approaches, or trade war stories about front-end quirks, I’m around.
 
-- 👨‍💻 Most of my projects live in private repos, but a few are open at [github.com/garzacodes](https://github.com/garzacodes)
-- 💬 I’m always up to talk shop — React, Angular, AngularJS, TypeScript, JavaScript
-- 📫 Reach out any time: **garzacodes@garza.cloud**
+* Most of my work lives in private repos, but a few things are public at: **github.com/garzacodes**
+* Happy to talk React, Next.js, SPFx, TypeScript, or anything JavaScript-shaped
+* Email: **[garzacodes@garza.cloud](mailto:garzacodes@garza.cloud)**
 
-&nbsp;
+ 
 
-![Streak](https://streak-stats.demolab.com/?user=garzaCodes&theme=dark)
+![Streak](https://streak-stats.demolab.com/?user=garzaCodes\&theme=dark)
 
-&nbsp;
+ 
 
+## Tech Stack
 
+### Languages
 
-## My Tech Stack
-
-### Languages  
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-&nbsp;
+ 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55" height="55" />](https://www.typescriptlang.org/)
-&nbsp;
+ 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55" />](https://www.python.org)
-&nbsp;
+ 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="55" height="55" />](https://go.dev/)
 
 ---
 
-### Libraries and Frameworks  
+### Libraries & Frameworks
+
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55" height="55" />](https://reactjs.org/)
-&nbsp;
-[<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="55" height="55" />](https://angular.io)
-&nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width="55" height="55" />](https://ionicframework.com)
-&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55" />](https://nodejs.org)
-&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="55" height="55" />](https://www.electronjs.org)
-&nbsp;
+ 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="55" height="55" />](https://nextjs.org/)
+ 
+[<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="55" height="55" />](https://angular.io)
+ 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55" />](https://nodejs.org)
+ 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="55" height="55" />](https://www.electronjs.org)
 
 ---
 
-### Data  
+### Data
+
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55" height="55" />](https://firebase.google.com/)
-&nbsp;
+ 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55" />](https://www.mongodb.com/)
-&nbsp;
+ 
 [<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="55" height="55" />](https://www.microsoft.com/en-us/sql-server)
-&nbsp;
+ 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55" />](https://www.mysql.com/)
 
 ---
 
-### Testing  
+### Testing
+
 [<img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" width="55" height="55" />](https://jasmine.github.io/)
-&nbsp;
+ 
 [<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="55" height="55" />](https://jestjs.io)
-&nbsp;
+ 
 [<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" width="55" height="55" />](https://karma-runner.github.io/latest/index.html)
+
