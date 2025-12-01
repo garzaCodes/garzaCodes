@@ -26,7 +26,6 @@ If you ever want to talk through an idea, compare approaches, or trade war stori
   <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" width="40" style="margin:4px;" />
   <img title="Python" src="https://skillicons.dev/icons?i=py" width="40" style="margin:4px;" />
   <img title="Go" src="https://skillicons.dev/icons?i=go" width="40" style="margin:4px;" />
-  <img title="C#" src="https://skillicons.dev/icons?i=cs" width="40" style="margin:4px;" />
   <img title="HTML5" src="https://skillicons.dev/icons?i=html" width="40" style="margin:4px;" />
   <img title="CSS3" src="https://skillicons.dev/icons?i=css" width="40" style="margin:4px;" />
 </p>
